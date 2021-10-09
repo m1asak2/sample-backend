@@ -1,0 +1,14 @@
+{
+	"name": "backend-app",
+	"dockerComposeFile": [
+		"docker-compose.yml"
+	],
+	"service": "backend-app",
+	"workspaceFolder": "/app",
+	"settings": {},
+	"extensions": [
+		"ms-python.python",
+		"littlefoxteam.vscode-python-test-adapter",
+		"himanoa.python-autopep8"
+	]
+}
